@@ -34,4 +34,5 @@ figcaption {
 position: absolute;
 left: 1rem;
 bottom: .5rem;
+max-width: 15em;
 }
