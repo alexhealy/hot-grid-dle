@@ -26,9 +26,12 @@ body {
   display: block;
 }
 
-.figcaption {
+figure {
   position: relative;
-  position: absolute;
-  margin-bottom: .5rem;
+}
 
+figcaption {
+position: absolute;
+left: 1rem;
+bottom: .5rem;
 }
