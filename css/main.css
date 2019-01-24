@@ -38,4 +38,8 @@ figcaption {
   max-width: 15em;
   color: #fff;
   background-color: rgba(0, 0, 0, .5);
+  padding-top: 1.5rem;
+  padding-right: 1.5rem;
+  padding-bottom: 1.5rem;
+  padding-left: 1.5rem;
 }
